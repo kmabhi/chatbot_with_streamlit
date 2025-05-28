@@ -1,0 +1,14 @@
+openai
+langchain
+langchain_openai
+langchain_experimental
+langchainhub
+langchain-deepseek
+langchain-google-genai
+google-generativeai
+pinecone-client
+python-dotenv
+streamlit
+docx2txt
+pypdf
+requests
